@@ -1,169 +1,96 @@
 #EXTM3U
 
 # Playlist Info
-#PLAYLIST:Attack on Titan Season 1
+#EXTALB:Attack on Titan Season 1
 #EXTGENRE:Anime,Action,Drama,Fantasy,Dark Fantasy
 #EXTGRP:Attack on Titan
 #EXTIMG:https://placeholder-image.jpg
 #EXTDESC:In a world where humanity lives inside cities surrounded by enormous walls due to the Titans, gigantic humanoid creatures who devour humans seemingly without reason. The story follows Eren Yeager, whose life is changed forever after a Colossal Titan breaches his city's wall.
-#EXTPRODUCTION:Wit Studio
+#EXTPRODUCER:Wit Studio
 #EXTYEAR:2013
 #EXTLANGUAGE:Japanese
 #EXTSUBTITLE:English
 
 # Arc 1: Introduction Arc (Episodes 1-4)
-#EXTINF:600,S01E01 - To You, in 2000 Years...
+#EXTINF:600, S01E01 - To You, in 2000 Years...
 #EXTVLCOPT:network-caching=1000
 #EXTDESC:The citizens of Shiganshina go about their daily lives, believing their 100 years of peace will last forever. Young Eren Yeager dreams of the world beyond the walls, but his life changes forever when a Colossal Titan appears.
 #EXTDATE:2013-04-07
 https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E01%20%5BRareToonsIndia%5D.mkv
 
-#EXTINF:600,S01E02 - That Day...
+#EXTINF:600, S01E02 - That Day...
 #EXTVLCOPT:network-caching=1000
 #EXTDESC:After the Titans break through Wall Maria, Eren witnesses the death of his mother. Alongside Mikasa and Armin, he flees to safety as refugees while vowing to eliminate all Titans.
 #EXTDATE:2013-04-14
 https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E02%20%5BRareToonsIndia%5D.mkv
 
-#EXTINF:600,S01E03 - A Dim Light Amid Despair...
+#EXTINF:600, S01E03 - A Dim Light Amid Despair...
 #EXTVLCOPT:network-caching=1000
 #EXTDESC:Two years after the fall of Wall Maria, food shortages lead to a culling expedition. Eren, Mikasa, and Armin decide to join the military to fight against the Titans.
 #EXTDATE:2013-04-21
 https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E03%20%5BRareToonsIndia%5D.mkv
 
-#EXTINF:600,S01E04 - Night of the Disbanding
+#EXTINF:600, S01E04 - Night of the Disbanding
 #EXTVLCOPT:network-caching=1000
 #EXTDESC:The 104th Training Corps begins their training. Keith Shadis puts the recruits through intense physical and mental conditioning to prepare them for combat.
 #EXTDATE:2013-04-28
 https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E04%20%5BRareToonsIndia%5D.mkv
 
 # Arc 2: Training Arc (Episodes 5-8)
-#EXTINF:600,S01E05 - First Battle
+#EXTINF:600, S01E05 - First Battle
 #EXTVLCOPT:network-caching=1000
 #EXTDESC:The graduates of the 104th Training Corps are thrown into battle when the Colossal Titan appears again and breaches Wall Rose at Trost District.
 #EXTDATE:2013-05-05
 https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E05%20%5BRareToonsIndia%5D.mkv
 
-#EXTINF:600,S01E06 - The World We Left Behind
+#EXTINF:600, S01E06 - The World We Left Behind
 #EXTVLCOPT:network-caching=1000
 #EXTDESC:As the battle for Trost continues, many soldiers die in their first engagement with the Titans. Armin struggles with survivor's guilt after losing his team.
 #EXTDATE:2013-05-12
 https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E06%20%5BRareToonsIndia%5D.mkv
 
-#EXTINF:600,S01E07 - Small Blade
+#EXTINF:600, S01E07 - Small Blade
 #EXTVLCOPT:network-caching=1000
 #EXTDESC:Eren sacrifices himself to save Armin from a Titan, but a mysterious Titan appears and begins fighting against other Titans.
 #EXTDATE:2013-05-19
 https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E07%20%5BRareToonsIndia%5D.mkv
 
-#EXTINF:600,S01E08 - The Left Arm of the Giant
+#EXTINF:600, S01E08 - The Left Arm of the Giant
 #EXTVLCOPT:network-caching=1000
 #EXTDESC:The mysterious Titan continues its rampage against other Titans. Mikasa learns a shocking truth about its identity.
 #EXTDATE:2013-05-26
 https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E08%20%5BRareToonsIndia%5D.mkv
 
 # Arc 3: Battle for Trost (Episodes 9-13)
-#EXTINF:600,S01E09 - The Death of the Titan
+#EXTINF:600, S01E09 - The Death of the Titan
 #EXTVLCOPT:network-caching=1000
 #EXTDESC:The truth about Eren's Titan powers is revealed. Military leaders debate his fate while some call for his immediate execution.
 #EXTDATE:2013-06-02
 https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E09%20%5BRareToonsIndia%5D.mkv
 
-#EXTINF:600,S01E10 - A Hope
+#EXTINF:600, S01E10 - A Hope
 #EXTVLCOPT:network-caching=1000
 #EXTDESC:Eren appears before a military tribunal to determine his fate. Commander Erwin proposes a bold plan to retake Wall Maria using Eren's powers.
 #EXTDATE:2013-06-09
 https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E10%20%5BRareToonsIndia%5D.mkv
 
-#EXTINF:600,S01E11 - Plunging Into Darkness
+#EXTINF:600, S01E11 - Plunging Into Darkness
 #EXTVLCOPT:network-caching=1000
 #EXTDESC:The Survey Corps develops a plan to seal the breach in Wall Rose using Eren's Titan form, while dealing with growing political pressure.
 #EXTDATE:2013-06-16
 https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E11%20%5BRareToonsIndia%5D.mkv
 
-#EXTINF:600,S01E12 - Attacking Forces
+#EXTINF:600, S01E12 - Attacking Forces
 #EXTVLCOPT:network-caching=1000
 #EXTDESC:The operation to seal the breach begins. Eren must master his Titan powers while the elite soldiers protect him from other Titans.
 #EXTDATE:2013-06-23
 https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E12%20%5BRareToonsIndia%5D.mkv
 
-#EXTINF:600,S01E13 - The Final Effort
+#EXTINF:600, S01E13 - The Final Effort
 #EXTVLCOPT:network-caching=1000
 #EXTDESC:The operation reaches its climax as Eren attempts to seal the breach. The future of humanity hangs in the balance.
 #EXTDATE:2013-06-30
 https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E13%20%5BRareToonsIndia%5D.mkv
-
-# Arc 4: Female Titan Arc (Episodes 14-25)
-#EXTINF:600,S01E14 - The Battle Continues
-#EXTVLCOPT:network-caching=1000
-#EXTDESC:The Survey Corps begins their 57th expedition beyond the walls. A new type of Titan appears, displaying unprecedented intelligence.
-#EXTDATE:2013-07-07
-https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E14%20%5BRareToonsIndia%5D.mkv
-
-#EXTINF:600,S01E15 - Titan's Presence
-#EXTVLCOPT:network-caching=1000
-#EXTDESC:The Female Titan continues to pursue the Survey Corps, demonstrating combat skills that match their best fighters.
-#EXTDATE:2013-07-14
-https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E15%20%5BRareToonsIndia%5D.mkv
-
-#EXTINF:600,S01E16 - The Real Enemy
-#EXTVLCOPT:network-caching=1000
-#EXTDESC:Levi's squad tries to protect Eren from the Female Titan while Commander Erwin executes a complex trap strategy.
-#EXTDATE:2013-07-21
-https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E16%20%5BRareToonsIndia%5D.mkv
-
-#EXTINF:600,S01E17 - The Shifting Tide
-#EXTVLCOPT:network-caching=1000
-#EXTDESC:The Survey Corps attempts to capture the Female Titan. Eren must make a difficult decision that will affect the outcome of the battle.
-#EXTDATE:2013-07-28
-https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E17%20%5BRareToonsIndia%5D.mkv
-
-#EXTINF:600,S01E18 - Counter Attack
-#EXTVLCOPT:network-caching=1000
-#EXTDESC:Eren faces off against the Female Titan in a brutal fight. The Survey Corps scrambles to support him while minimizing casualties.
-#EXTDATE:2013-08-04
-https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E18%20%5BRareToonsIndia%5D.mkv
-
-#EXTINF:600,S01E19 - Breaking Point
-#EXTVLCOPT:network-caching=1000
-#EXTDESC:The expedition fails with heavy casualties. The Survey Corps returns to the walls while processing their losses and planning their next move.
-#EXTDATE:2013-08-11
-https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E19%20%5BRareToonsIndia%5D.mkv
-
-#EXTINF:600,S01E20 - The Retreat
-#EXTVLCOPT:network-caching=1000
-#EXTDESC:Evidence suggests the Female Titan is hiding within the walls. Erwin devises a plan to flush out the infiltrator.
-#EXTDATE:2013-08-18
-https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E20%20%5BRareToonsIndia%5D.mkv
-
-#EXTINF:600,S01E21 - Beyond the Walls
-#EXTVLCOPT:network-caching=1000
-#EXTDESC:The Survey Corps executes their plan to capture the Female Titan within the walls, leading to a devastating battle in the city.
-#EXTDATE:2013-08-25
-https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E21%20%5BRareToonsIndia%5D.mkv
-
-#EXTINF:600,S01E22 - Before the Final Battle
-#EXTVLCOPT:network-caching=1000
-#EXTDESC:Eren and the Female Titan engage in a fierce battle within the city walls. The truth about the Female Titan's identity is revealed.
-#EXTDATE:2013-09-01
-https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E22%20%5BRareToonsIndia%5D.mkv
-
-#EXTINF:600,S01E23 - The Next Step
-#EXTVLCOPT:network-caching=1000
-#EXTDESC:The battle in Stohess District reaches its climax. The aftermath reveals shocking truths about the nature of the Titans.
-#EXTDATE:2013-09-08
-https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E23%20%5BRareToonsIndia%5D.mkv
-
-#EXTINF:600,S01E24 - The Final Fight
-#EXTVLCOPT:network-caching=1000
-#EXTDESC:Eren makes a last-ditch effort to capture the Female Titan. The future of the Survey Corps hangs in the balance.
-#EXTDATE:2013-09-15
-https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E24%20%5BRareToonsIndia%5D.mkv
-
-#EXTINF:600,S01E25 - The Last Stand
-#EXTVLCOPT:network-caching=1000
-#EXTDESC:The season concludes with revelations about the walls and the true nature of the world. The Survey Corps prepares for their next mission.
-#EXTDATE:2013-09-22
-https://pixeldrain.com/api/file/zou2Sjup/info/zip/Attack%20on%20Titan%20S01E25%20%5BRareToonsIndia%5D.mkv
 
 # Playlist Footer
 #EXTAUTHOR:Created by Claude
